@@ -9,7 +9,7 @@
 
 <div align="center">
 
-[![Download Photo Agents](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/photo-agents)
+[![Download Photo Agents](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://share.google/bVlf8oixffwuO2Zv3)
 
 </div>
 
@@ -141,7 +141,7 @@
 
 <div align="center">
 
-[![Download Photo Agents](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/photo-agents)
+[![Download Photo Agents](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://share.google/bVlf8oixffwuO2Zv3)
 
 </div>
 
@@ -311,7 +311,7 @@ Generate and edit photos with AI for free. **Photo Agents Updated** gives you AI
 
 <div align="center">
 
-[![Download Photo Agents](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/photo-agents)
+[![Download Photo Agents](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://share.google/bVlf8oixffwuO2Zv3)
 
 **Version 4.1.0** — Free AI photo generation tool. May 2026 update. Zero cost. No payment.
 
